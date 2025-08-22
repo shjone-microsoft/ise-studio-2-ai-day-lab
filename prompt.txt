@@ -1,0 +1,2 @@
+Create a CURL command to send a request to OpenAI APIs /agentic-response endpoint
+Save it as a new text file with the file name equal to your model name/version and include a timestamp (e.g., Claude Sonnet 3.5)
