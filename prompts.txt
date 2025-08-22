@@ -1,0 +1,19 @@
+1. Review the problem statement and generate a list of questions that will help us better understand the problem and the impact it is having on MegaMart's business. Save the file as open_questions.md
+
+2. Conduct an online search from reliable sources and provide background, context, or answers to as many of the open questions as you can.
+
+3. You are a supply chain expert at MegaMart. Using the research_findings and your extensive experience, answer the questions in the open_questions.md file.
+
+4. Given research_findings and answers to open_questions, update the problem statement to provide a more complete understanding of the problem and impact on the business.
+
+5. You are the CTO of MegaMart. Carefully review the problem statement and generate 10 hypotheses for ideas IT could implement to resolve the problem or minimize the negative impact on the business. Ultrathink about the possibilities and carefully rank them from 1-10 in order of predicted ROI if the hypothesis is proven and the solution is implemented.
+
+6. Let's better understand hypothesis [choose your number]. Create a docs/personas/ folder and create a markdown file for the key personas that would use the solution if the hypothesis is validated. The personas need to be comprehensive and will be used as the foundation for building our business requirements.
+
+7. For each of the personas, create a set of BDD Gherkin files outlining the key features important to that specific persona. Use a naming convention for the .feature files that makes them traceable.
+
+8. You are an expert conceptual data modeler. Create a conceptual data model for the system we are building. Leverage the detailed feature documents and related project documents.
+
+9. Now generate a detailed logical data model based on the conceptual data model. Break the logical data model into separate documents when it makes sense for clarity.
+
+10. Generate an API reference doc for the system that providers developers with an understanding of its capabilities.
